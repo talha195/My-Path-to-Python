@@ -700,3 +700,12 @@ THINGS I STUCK OFF FOR A WHILE
 3.templates tagging is white space senstive
 2.not changing names of files when copy code from referance code
 4.if you can not find the syntax eroor from a given line of exception ,simply rewrite the code 
+
+
+
+
+
+# How to Linkup MongoDB with Django 
+
+pip install Django
+pip install Djongo
